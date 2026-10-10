@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**SuperduperCoders/superdupercoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Daniel
 
-Here are some ideas to get you started:
+I'm a developer who builds websites, apps, and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into real projects and experimenting with new technologies.
+
+## Projects
+
+- **[GestureV](https://gesturev.com/)** - Control your PC with hand gestures
+- **[DanielWebs](https://www.danielwebs.com/)** - Modern websites for businesses and creators
+- **[Friendnix](https://www.friendnix.com/)** - A social platform for connecting with friends
+- **Forgotten Bloxxers** - An asymmetrical Roblox game I'm developing
+
+## Technologies
+
+- Python
+- JavaScript
+- HTML & CSS
+- Node.js
+- Roblox Studio & Luau
+- Git & GitHub
+
+## Find me online
+
+- [Portfolio](https://daniel-solimani-portfolio-production.up.railway.app/)
+- [DanielWebs](https://www.danielwebs.com/)
+- [GestureV](https://gesturev.com/)
