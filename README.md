@@ -41,3 +41,7 @@ I enjoy turning ideas into real projects and experimenting with new technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git,github,robloxstudio" />
 </p>
+
+## Contributions
+
+![Contribution Snake](https://raw.githubusercontent.com/superdupercoders/superdupercoders/output/github-contribution-grid-snake.svg)
