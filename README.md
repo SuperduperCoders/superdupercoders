@@ -9,8 +9,7 @@ I enjoy turning ideas into real projects and experimenting with new technologies
 
 - **[GestureV](https://gesturev.com/)** - Control your PC with hand gestures
 - **[DanielWebs](https://www.danielwebs.com/)** - Modern websites for businesses and creators
-- **[Friendnix](https://www.friendnix.com/)** - A social platform for connecting with friends
-- **Forgotten Bloxxers** - An asymmetrical Roblox game I'm developing
+  
 
 ## Technologies
 
